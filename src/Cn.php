@@ -6,7 +6,7 @@ use TailwindMerge\TailwindMerge;
 
 class Cn
 {
-    public static function cn(...$inputs)
+    public static function merge(...$inputs)
     {
         $inputs = array_map(function ($input) {
             if (is_array($input)) {
