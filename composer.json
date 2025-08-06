@@ -1,0 +1,19 @@
+{
+    "name": "performing/cn",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Performing\\Cn\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Giorgio Pogliani",
+            "email": "giorgiopogliani94@gmail.com"
+        }
+    ],
+    "require": {
+        "gehrisandro/tailwind-merge-php": "^1.1"
+    }
+}
