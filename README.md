@@ -2,7 +2,7 @@
 
 Simple tailwind merge wrapper for php that converts conditional classes into a single string.
 
-It's using `gehrisandro/tailwind-merge-php` to merge tailwind classes.
+It's using [gehrisandro/tailwind-merge-php](https://github.com/gehrisandro/tailwind-merge-php) to merge tailwind classes.
 
 ```php
 use Performing\Cn\Cn;
